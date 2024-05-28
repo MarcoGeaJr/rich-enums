@@ -88,6 +88,6 @@ public sealed class CourierShipping(string name)
 ```
 
 This repository was inspired by the following sources:
-[LosTechies](https://lostechies.com/jimmybogard/2008/08/12/enumeration-classes/)
-[Microsoft](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/enumeration-classes-over-enum-types)
-[Ardalis](https://ardalis.com/enum-alternatives-in-c/)
+- [LosTechies](https://lostechies.com/jimmybogard/2008/08/12/enumeration-classes/)
+- [Microsoft](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/enumeration-classes-over-enum-types)
+- [Ardalis](https://ardalis.com/enum-alternatives-in-c/)
